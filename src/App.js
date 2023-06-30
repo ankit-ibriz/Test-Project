@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function App() {
   return (
     <div>
-      <h1>Testing react app CI/CD and its deployment in AWS S3, Cloudfront, Route53 V2</h1>
+      <h1>Testing react app CI/CD and its deployment in AWS S3, Cloudfront, Route53 V3</h1>
       <nav
         style={{
           borderBottom: "solid 1px",
