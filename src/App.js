@@ -19,7 +19,7 @@ function App() {
   return (
     <div>
       <h1>Testing react app CI/CD and its deployment in AWS S3, Cloudfront, Route53 V3</h1>
-      {/* <h2>If my name displays then backend is working properly: {userName}</h2> */}
+      <h2>Hey there: {userName}</h2>
       <nav
         style={{
           borderBottom: "solid 1px",
